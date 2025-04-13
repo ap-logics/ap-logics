@@ -29,6 +29,10 @@ Avidly solving problems, whether it be building trading strategies or designing 
   *Game Development Project / Contracted UI Designer*  
   Arguably one of the best first-person shooter games on the platform—I conceptualised UI designs (HUDs, loading screens, and general interface) for a game averaging 1,000 concurrent users.
 
+- **[High School Life @ Roblox](https://www.roblox.com/games/92604236/High-School-Life)**  
+  *Game Development Project / Contracted UI Designer*  
+  Designed the HUD, some on-screen icons improving user experience
+
 
 - **[IMC Prosperity 2 Market-Making Challenge](https://github.com/yushi502/imc-prosperity-2024)**  
   *Hackathon*  
