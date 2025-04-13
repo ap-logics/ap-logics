@@ -25,7 +25,7 @@ Looking for potential quantitative research / software engineering roles.
   <summary>A handful of projects</summary>
 
 - **[Animations: Mocap @ Roblox](https://www.roblox.com/groups/4872031/Animations-Mocap##!/about)**  
-  *Game Development Project / Lead Developer (flagship project)* 
+  *Game Development Project / Lead Developer (flagship project)*    
   I co-founded and led development on Mocap—a social dance game on Roblox that garnered recognition for its creativity and reached up to 16,000 concurrent users during the pandemic.
 
 - **[SCP: Roleplay @ Roblox](https://www.roblox.com/games/5041144419/SCP-Roleplay)**  
