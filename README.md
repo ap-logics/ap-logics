@@ -10,7 +10,7 @@ Avidly solving problems, whether it be building trading strategies or designing 
 
 ## What I'm Doing
 
-- **[Typhoon]**  
+- **Typhoon**  
   *Quantitative Trading/Research Intern (Python/Rust)*  
   Working on market-making/stat arb algorithms for crypto futures!
 
