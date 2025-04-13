@@ -3,6 +3,8 @@
 A 2nd year Mathematics & Statistics student at the University of Nottingham.
 Avidly solving problems, whether it be building trading strategies or designing creative game development solutions.
 
+Looking for potential quantitative research / software engineering roles.
+
 ## What I Do
 
 - **Quant Trading:** Currently a trading/research intern at a crypto shop; market-making cryptoderivatives - turning data into smart money moves and understanding a lot more about the function of D1 products as I do!
@@ -31,7 +33,7 @@ Avidly solving problems, whether it be building trading strategies or designing 
 
 - **[High School Life @ Roblox](https://www.roblox.com/games/92604236/High-School-Life)**  
   *Game Development Project / Contracted UI Designer*  
-  Designed the HUD, some on-screen icons improving user experience
+  Designed the HUD, some on-screen icons improving user
 
 
 - **[IMC Prosperity 2 Market-Making Challenge](https://github.com/yushi502/imc-prosperity-2024)**  
