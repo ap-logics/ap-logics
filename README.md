@@ -1,7 +1,6 @@
 # Hi there, I'm Aayush 👋
 
 A 2nd year Mathematics & Statistics student at the University of Nottingham.
-Avidly solving problems, whether it be building trading strategies or designing creative game development solutions.
 
 Looking for potential quantitative research / software engineering roles.
 
@@ -9,8 +8,8 @@ Looking for potential quantitative research / software engineering roles.
 
 ## What I Do
 
-- **Quant Trading:** Currently a trading/research intern at a crypto shop; market-making cryptoderivatives - turning data into smart money moves and understanding a lot more about the function of D1 products as I do!
-- **Game Development:** From fun experiments on Roblox using Lua, to passion projects in Python, I craft interactive experiences that merge logic with imagination.
+- **Quant Trading:** Currently a trading/research intern at a crypto shop; market-making cryptoderivatives.
+- **Game Development:** Building Roblox games, using Blender and programming in Lua.
 
 ## What I'm Doing
 
