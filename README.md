@@ -14,7 +14,7 @@ Looking for potential quantitative research / software engineering roles.
 
 ## What I'm Doing
 
-- **Typhoon**  
+- **[Typhoon Trading](https://typhoon-trading.com/)**  
   *Quantitative Trading/Research Intern (Python/Rust)*  
   Working on market-making/stat arb algorithms for crypto futures!
 
