@@ -26,6 +26,10 @@ Avidly solving problems, whether it be building trading strategies or designing 
   *Hackathon*  
   I competed in a challenging, globally competitive hackathon where I secured a top 10 ranking in the UK, using ETF arbitrage, mean reversion strategies, and the Black-Scholes model to grow an "island" representing a portfolio.
 
+- **Imperial College London Algothon / Qube Research & Technologies **  
+  *Hackathon*  
+  I participated in the Imperial College QRT Hackathon, placing among the top 50 participants by designing a portfolio optimisation strategy using CVaR to achieve a positive Sharpe ratio.
+  Implemented convex optimisation, linear programming, realised after the hackathon to have used hidden markov models.
 
 
 
