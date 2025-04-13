@@ -29,7 +29,7 @@ Looking for potential quantitative research / software engineering roles.
   I co-founded and led development on Mocap—a social dance game on Roblox that garnered recognition for its creativity and reached up to 16,000 concurrent users during the pandemic.
 
 - **[SCP: Roleplay @ Roblox](https://www.roblox.com/games/5041144419/SCP-Roleplay)**  
-  *Game Development Project / Contracted UI Designer*  
+  *Game Development Project / Contracted UI Designer & Programmer*  
   I conceptualised, designed, and implemented user interfaces for SCP: Roleplay—a social game on Roblox renowned for its design, averaging 4,000 concurrent users.
 
 - **[Frontlines @ Roblox](https://www.roblox.com/games/5938036553/FRONTLINES)**  
