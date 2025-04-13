@@ -29,11 +29,11 @@ Avidly solving problems, whether it be building trading strategies or designing 
   Arguably one of the best first-person shooter games on the platform—I conceptualised UI designs (HUDs, loading screens, and general interface) for a game averaging 1,000 concurrent users.
 
 - **[IMC Prosperity 2 Market-Making Challenge](https://github.com/yushi502/imc-prosperity-2024)**  
-  *Hackathon (Python)*  
+  *Hackathon*  
   I competed in a challenging, globally competitive hackathon where I secured a top 10 ranking in the UK, using ETF arbitrage, mean reversion strategies, and the Black-Scholes model to grow an "island" representing a portfolio.
 
 - **Imperial College London Algothon / Qube Research & Technologies**  
-  *Hackathon (Python)*  
+  *Hackathon*  
   I participated in the Imperial College QRT Hackathon, placing among the top 50 participants by designing a portfolio optimisation strategy using CVaR to achieve a positive Sharpe ratio.
   Implemented convex optimisation, linear programming, realised after the hackathon to have used hidden markov models.
 
