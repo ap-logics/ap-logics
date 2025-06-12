@@ -9,14 +9,13 @@ Looking for potential quantitative research / software engineering roles.
 
 ## What I Do
 
-- **Quant Trading:** Currently a trading/research intern at a crypto shop; market-making cryptoderivatives.
+- **Quant Trading:** Currently a trading/research intern at a crypto shop.
 - **Game Development:** Building Roblox games, using Blender and programming in Lua.
 
 ## What I'm Doing
 
 - **[Typhoon Trading](https://typhoon-trading.com/)**  
   *Quantitative Trading/Research Intern (Python/Rust)*  
-  Working on market-making/stat arb algorithms for crypto futures!
 
 
 ## What I've Done
