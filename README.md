@@ -16,7 +16,7 @@ Looking for potential quantitative research / software engineering roles.
 
 - **[Typhoon Trading](https://typhoon-trading.com/)**  
   *Quantitative Trading/Research Intern (Python/Rust)*  
-
+  _i'm using gitlab here so you won't see much activity, but my gitlab is @parekh7_
 
 ## What I've Done
 
