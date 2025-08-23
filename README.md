@@ -18,7 +18,7 @@ Looking for potential quantitative research / software engineering roles.
   *Quantitative Trading/Research Intern (Python/Rust)*  
   _i'm using gitlab here so you won't see much activity, but my gitlab is @parekh7_
 
-- **Sparkle.gg**
+- **[Sparkle.gg](https://sparkle.gg/)**
   *Gameplay Engineer (Lua)*
   _backend solutions, ui/ux design_
 
