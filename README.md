@@ -1,7 +1,7 @@
 ![myimage](files/sig.png)
 # Hi there, I'm Aayush 👋
 
-A 2nd year Mathematics & Statistics student at the University of Nottingham.
+A 3rd year Mathematics & Statistics student at the University of Nottingham.
 
 Looking for potential quantitative research / software engineering roles.
 
