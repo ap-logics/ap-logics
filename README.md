@@ -23,9 +23,9 @@ Looking for potential quantitative research / software engineering roles.
 <details>
   <summary>A handful of projects</summary>
 
-- **Crypto HFT**
+- **Crypto HFT**<br>
   *Quantitative Researcher & Developer Intern*
-  Worked on statistical arbitrage and market-making algorithms for futures spreads on OKX/Bybit
+  Worked on statistical arbitrage and market-making algorithms for futures spreads on OKX/Bybit<br>
   Built lots of Grafana dashboards
 
 - **[Animations: Mocap @ Roblox](https://www.roblox.com/groups/4872031/Animations-Mocap##!/about)**  
