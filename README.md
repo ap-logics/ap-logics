@@ -15,7 +15,7 @@ Looking for potential quantitative research / software engineering roles.
 ## What I'm Doing
 
 - **[Sparkle.gg](https://sparkle.gg/)**
-  *Chief Financial Officer & Game Developer* \n
+  *Chief Financial Officer & Game Developer*
   _Backend solutions, UI/UX design_
 
 ## What I've Done
@@ -23,9 +23,8 @@ Looking for potential quantitative research / software engineering roles.
 <details>
   <summary>A handful of projects</summary>
 
-- **Crypto HFT**\n
+- **Crypto HFT**
   *Quantitative Researcher & Developer Intern*
-
   Worked on statistical arbitrage and market-making algorithms for futures spreads on OKX/Bybit
   Built lots of Grafana dashboards
 
