@@ -25,6 +25,7 @@ Looking for potential quantitative research / software engineering roles.
 
 - **Crypto HFT**
   *Quantitative Researcher & Developer Intern*
+
   Worked on statistical arbitrage and market-making algorithms for futures spreads on OKX/Bybit
   Built lots of Grafana dashboards
 
