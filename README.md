@@ -14,18 +14,17 @@ Looking for potential quantitative research / software engineering roles.
 
 ## What I'm Doing
 
-- **Cryptocurrency HFT Firm**  
-  *Quantitative Trading/Research Intern (Python/Rust)*  
-  _i'm using gitlab here so you won't see much activity, but my gitlab is @parekh7_
-
 - **[Sparkle.gg](https://sparkle.gg/)**
-  *Gameplay Engineer (Lua)*
+  *Chief Financial Officer & Game Developer*
   _backend solutions, ui/ux design_
 
 ## What I've Done
 
 <details>
   <summary>A handful of projects</summary>
+- **Crypto HFT**  
+  *Quantitative Trading/Research Intern (Python/Rust)*  
+  _i'm using gitlab here so you won't see much activity, but my gitlab is @parekh7_
 
 - **[Animations: Mocap @ Roblox](https://www.roblox.com/groups/4872031/Animations-Mocap##!/about)**  
   *Game Development Project / Lead Developer (flagship project)*    
