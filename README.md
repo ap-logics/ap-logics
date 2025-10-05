@@ -9,21 +9,24 @@ Looking for potential quantitative research / software engineering roles.
 
 ## What I Do
 
-- **Quant Trading:** Currently a trading/research intern at a crypto shop.
-- **Game Development:** Building Roblox games, using Blender and programming in Lua.
+- **Mathematics**: Applying for Master's programmes within computational & statistical machine learning
+- **Game Development:** Building Roblox games @ Sparkle
 
 ## What I'm Doing
 
 - **[Sparkle.gg](https://sparkle.gg/)**
   *Chief Financial Officer & Game Developer* \n
-  _backend solutions, ui/ux design_
+  _Backend solutions, UI/UX design_
 
 ## What I've Done
 
 <details>
   <summary>A handful of projects</summary>
-- **Crypto HFT**  
-  *Quantitative Trading/Research Intern (Python/Rust)*  
+
+- **[Crypto HFT]**
+  *Quantitative Researcher & Developer Intern*
+  Worked on statistical arbitrage and market-making algorithms for futures spreads on OKX/Bybit
+  Built lots of Grafana dashboards
 
 - **[Animations: Mocap @ Roblox](https://www.roblox.com/groups/4872031/Animations-Mocap##!/about)**  
   *Game Development Project / Lead Developer (flagship project)*    
