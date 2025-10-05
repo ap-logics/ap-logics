@@ -14,8 +14,8 @@ Looking for potential quantitative research / software engineering roles.
 
 ## What I'm Doing
 
-- **[Sparkle.gg](https://sparkle.gg/)**
-  *Chief Financial Officer & Game Developer*
+- **[Sparkle.gg](https://sparkle.gg/)**<br>
+  *Chief Financial Officer & Game Developer*<br>
   _Backend solutions, UI/UX design_
 
 ## What I've Done
