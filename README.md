@@ -23,7 +23,7 @@ Looking for potential quantitative research / software engineering roles.
 <details>
   <summary>A handful of projects</summary>
 
-- **Crypto HFT**
+- **Crypto HFT**\n
   *Quantitative Researcher & Developer Intern*
 
   Worked on statistical arbitrage and market-making algorithms for futures spreads on OKX/Bybit
