@@ -1,9 +1,9 @@
 ![myimage](files/sig.png)
 # Hi there, I'm Aayush 👋
 
-A 3rd year Mathematics & Statistics student at the University of Nottingham. Interested in optimisation, scientific computing and machine learning. Specifically, Bayesian inference and optimisation, as well as quantum information theory.
+A 3rd year Mathematics & Statistics student at the University of Nottingham. Interested in optimisation, scientific computing and machine learning. Specifically, Bayesian inference and optimisation, as well as quantum information theory. Looking for any roles where I can build things.
 
-*Using Python, Rust, Lua and TypeScript*
+*Using Python, Lua and TypeScript*
 
 ## What I Do
 
