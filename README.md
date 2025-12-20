@@ -48,15 +48,6 @@ A 3rd year Mathematics & Statistics student at the University of Nottingham. Int
 
 </details>
 
-
-
-## Outside the Code
-
-When I'm not diving into market trends, games, or studying, you'll find me:
-- **Swimming or playing table tennis** just because that's what I enjoy.
-- **Reading** up on everything from tech trends to the latest romance novel or whatever.
-- **Building** the latest lego set.
-
 ## Let’s Connect
 
 I understand a lot of my projects are not present on here - I have been using Gitlab at my current internship, but feel free to explore my repositories and connect with me on [LinkedIn](https://linkedin.com/in/parekhaayush)
