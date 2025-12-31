@@ -1,14 +1,12 @@
 ![myimage](files/sig.png)
-# Hi there, I'm Aayush 👋
+3rd year Mathematics & Statistics student at the University of Nottingham. Interested in optimisation, scientific computing and machine learning. Specifically, Bayesian inference and optimisation, as well as quantum information theory. Looking for any roles where I can build things.
 
-A 3rd year Mathematics & Statistics student at the University of Nottingham. Interested in optimisation, scientific computing and machine learning. Specifically, Bayesian inference and optimisation, as well as quantum information theory. Looking for any roles where I can build things.
-
-*Using Python, Lua and TypeScript*
+*Experienced in Python, Lua and TypeScript*
 
 ## What I Do
 
 - **Mathematics**: Applying for Master's programmes within computational & statistical machine learning
-- **Game Development:** Building Roblox games @ Sparkle
+- **Game Development:** Building Roblox games @ Sparkle, I just released **[Jumped @ Roblox](https://www.roblox.com/games/98592317434563/JUMPED) as of December 2025!
 
 ## What I'm Doing
 
