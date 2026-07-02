@@ -1,5 +1,5 @@
-![myimage](files/sig.png)
-3rd year Mathematics & Statistics student at the University of Nottingham. Interested in optimisation, scientific computing and machine learning. Specifically, Bayesian inference and optimisation, as well as quantum information theory. Looking for any roles where I can build things.
+
+Final year Mathematics & Statistics student at the University of Nottingham. Interested in optimisation, scientific computing and machine learning. Currently Research Ready Intern @ Google DeepMind
 
 *Experienced in Python, Lua and TypeScript*
 
