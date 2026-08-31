@@ -1,24 +1,14 @@
-
-Final year Mathematics & Statistics student at the University of Nottingham. Interested in optimisation, scientific computing and machine learning. Currently Research Ready Intern @ Google DeepMind
-
-*Experienced in Python, Lua and TypeScript*
-
-## What I Do
-
-- **Mathematics**: Applying for Master's programmes within computational & statistical machine learning
-- **Game Development:** Building Roblox games @ Sparkle, I just released **[Jumped @ Roblox](https://www.roblox.com/games/98592317434563/JUMPED)** as of December 2025!
-
-## What I'm Doing
-
-- **[Sparkle.gg](https://sparkle.gg/)**<br>
-  *Chief Financial Officer & Game Developer*<br>
-  _Backend solutions, UI/UX design_
+formerly research intern @ google deepmind through the research ready program
+now toying with startups
 
 ## What I've Done
 
 <details>
   <summary>A handful of projects</summary>
 
+- **[Sparkle.gg](https://sparkle.gg/)**<br>
+  *Chief Financial Officer & Game Developer*<br>
+  _Backend solutions, UI/UX design_
 - **Typhoon Trading (Crypto HFT Market Making)**<br>
   *Quantitative Researcher & Developer Intern*<br>
   Worked on statistical arbitrage and market-making algorithms for futures spreads on OKX/Bybit<br>
