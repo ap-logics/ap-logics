@@ -1,4 +1,4 @@
-formerly research intern @ google deepmind through the research ready program
+currently @ hacktron ai, pragma, formerly research intern @ google deepmind through the research ready program
 now toying with startups
 
 ## What I've Done
