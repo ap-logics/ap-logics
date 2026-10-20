@@ -4,6 +4,7 @@ currently @ pragma. super secret.
 
 <details>
   <summary>A handful of projects</summary>
+  
 - **[Google DeepMind](https://deepmind.google/)**<br>
   *Research Ready Intern*<br>
   First-authored a NeurIPS workshop paper within 2 months regarding controllability of text-to-motion models. Co-authored with Dr Stacy Hsueh.
