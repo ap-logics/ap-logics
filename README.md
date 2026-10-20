@@ -1,11 +1,17 @@
-currently @ pragma, formerly ml research intern @ google deepmind (reseach ready) & hacktron.ai
-now toying with startups
+currently @ pragma. super secret.
 
 ## What I've Done
 
 <details>
   <summary>A handful of projects</summary>
-
+- **[Google DeepMind](https://deepmind.google/)**<br>
+  *Research Ready Intern*<br>
+  First-authored a NeurIPS workshop paper within 2 months regarding controllability of text-to-motion models. Co-authored with Dr Stacy Hsueh.
+  
+  
+- **[Hacktron AI](https://hacktron.ai/)**<br>
+  *Member of Technical Staff*<br>
+  Recursive self-improving agents, and maintaining product for security.
 - **[Sparkle.gg](https://sparkle.gg/)**<br>
   *Chief Financial Officer & Game Developer*<br>
   _Backend solutions, UI/UX design_
